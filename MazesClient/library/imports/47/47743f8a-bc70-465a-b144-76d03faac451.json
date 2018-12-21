@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2-Maze World_160840521263423",
+    "texture": "bb105e84-d824-4975-8d1b-82f7c29cd3b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      120
+    ],
+    "offset": [
+      -3,
+      0
+    ],
+    "originalSize": [
+      120,
+      120
+    ]
+  }
+}

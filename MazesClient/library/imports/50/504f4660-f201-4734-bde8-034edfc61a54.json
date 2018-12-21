@@ -1,0 +1,176 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ad_icon": {
+      "__uuid__": "19aa582f-6a75-4688-9135-b1b41fc224e6"
+    },
+    "arrow": {
+      "__uuid__": "2b72e22c-8cd7-49a1-97c4-d77a3eebab49"
+    },
+    "back": {
+      "__uuid__": "c16972c1-1ccb-4a55-83cd-fddec5faab02"
+    },
+    "blue_yuan": {
+      "__uuid__": "e4ac5a7f-2d5e-4578-aa93-8c6027eb2fdc"
+    },
+    "box-green": {
+      "__uuid__": "aa99d1fc-96ea-4093-9267-8c59c0816bcd"
+    },
+    "box-yellow": {
+      "__uuid__": "50263cd7-e00f-4b51-bb85-074a063d4027"
+    },
+    "box_1": {
+      "__uuid__": "6f7d7372-5c06-410a-bf0c-605bde8ab204"
+    },
+    "box_while": {
+      "__uuid__": "158dad88-7724-43cf-bdea-465b4ca6ba5d"
+    },
+    "btn_blue": {
+      "__uuid__": "c5755b27-893e-479d-b843-94d243fd156e"
+    },
+    "btn_yellow": {
+      "__uuid__": "7115425c-7786-4907-8555-39e026dc1c90"
+    },
+    "close": {
+      "__uuid__": "f50cf782-cb9b-427f-bc9e-45dbbcc70755"
+    },
+    "flash": {
+      "__uuid__": "22bba485-6253-4193-9686-fc8987aeac82"
+    },
+    "guide": {
+      "__uuid__": "e845c0a3-8a32-46c0-9007-0d2f5c2a74ab"
+    },
+    "help": {
+      "__uuid__": "2ec4e9fb-b589-4445-b082-622a442c0453"
+    },
+    "helpplus": {
+      "__uuid__": "6ff8e14a-c265-4f8b-8b41-805f60043d0e"
+    },
+    "huan": {
+      "__uuid__": "f12a1fd6-8fe8-4dd6-838e-1b88b6db8ba3"
+    },
+    "ice": {
+      "__uuid__": "b3f27d1a-1b37-447a-bd17-a9145a5f8511"
+    },
+    "iconMask": {
+      "__uuid__": "3ef23d3f-9a07-463b-9c42-ce4637cc8669"
+    },
+    "icon_home": {
+      "__uuid__": "54de63ac-0ffe-4d4a-9cd6-52f7e211db7f"
+    },
+    "icon_play": {
+      "__uuid__": "95cdb48a-1466-49a0-a887-db9c0ddcca57"
+    },
+    "icon_share": {
+      "__uuid__": "104365aa-73d8-417f-b068-583097c07316"
+    },
+    "icon_share1": {
+      "__uuid__": "a672744f-4fca-4a7c-89e4-eca94e3d4e96"
+    },
+    "icon_time": {
+      "__uuid__": "f6a6bb90-f87b-4a63-8b11-9ed5126d0b60"
+    },
+    "icon_video": {
+      "__uuid__": "951325ab-5f43-48c8-ab24-cb3f75ce9023"
+    },
+    "level_box": {
+      "__uuid__": "600d0289-2cec-4496-bc02-7125532e60e3"
+    },
+    "level_box_1": {
+      "__uuid__": "f300a3ce-dad3-49dd-ac9e-c5f91a97aa5f"
+    },
+    "line": {
+      "__uuid__": "12c77d47-c4da-48d0-833d-bf23220d8c25"
+    },
+    "line1": {
+      "__uuid__": "7d642ef6-c4ad-4539-af94-904bad13dd5c"
+    },
+    "lock": {
+      "__uuid__": "ed5e89e4-33af-429e-a9df-5c838f73fad1"
+    },
+    "menu": {
+      "__uuid__": "13000732-883a-43b0-9751-66384cdce905"
+    },
+    "mission_1": {
+      "__uuid__": "d03bfe2d-3c6c-458c-9462-f89897c041c5"
+    },
+    "mission_2": {
+      "__uuid__": "eec9073e-f029-43eb-bdba-55d1afed725f"
+    },
+    "mission_3": {
+      "__uuid__": "1040ca3c-91cc-45e3-8029-660ba205eef9"
+    },
+    "mission_4": {
+      "__uuid__": "62c91b5d-1342-4ae3-8241-f45c32d72482"
+    },
+    "mission_5": {
+      "__uuid__": "163592ac-bfb8-49d8-9d7c-b4b1b85703f5"
+    },
+    "mission_6": {
+      "__uuid__": "330f34e9-8785-4280-be25-5d137767ebab"
+    },
+    "musicOff": {
+      "__uuid__": "83bd3b40-50f5-4cb7-aa95-0994ede2337b"
+    },
+    "musicOn": {
+      "__uuid__": "57c7d885-9ace-443c-baa2-ca56864ea688"
+    },
+    "page1": {
+      "__uuid__": "7a1f46be-32ab-4ac8-8f30-376349a69eb3"
+    },
+    "play_icon": {
+      "__uuid__": "7829311b-ad2d-40da-a9d7-27bc36414a7c"
+    },
+    "popPlayBtn": {
+      "__uuid__": "c6af7288-8d8b-4d98-80f0-c56f7f527ef1"
+    },
+    "pre": {
+      "__uuid__": "6675c328-1107-465e-a88c-dcc5939fc861"
+    },
+    "red_yuan": {
+      "__uuid__": "668ef800-c63c-4daa-be7a-37b39666728d"
+    },
+    "reload": {
+      "__uuid__": "2dcc694b-c972-40ea-9a6f-e8a95855cb74"
+    },
+    "replayplus": {
+      "__uuid__": "d11fdbea-1b1b-4e17-8f26-5024128a35f4"
+    },
+    "resume": {
+      "__uuid__": "abea6123-4920-44cf-8664-e9aafb8ef1a8"
+    },
+    "role": {
+      "__uuid__": "a56d4a6e-21d2-4b78-8da3-133943e24fe5"
+    },
+    "role_die": {
+      "__uuid__": "46652254-f87b-48e6-8089-88c383365d12"
+    },
+    "role_help_line": {
+      "__uuid__": "f0ab710f-00a1-49e9-a6ae-f06c99bebb5f"
+    },
+    "role_line": {
+      "__uuid__": "37aa9030-8e63-44d8-8bd5-eb867340aa42"
+    },
+    "star": {
+      "__uuid__": "257e71ae-0208-4da9-92ff-496e2b124dbf"
+    },
+    "star1": {
+      "__uuid__": "c05bf401-0d56-4479-8122-166caa49557c"
+    },
+    "timeisup": {
+      "__uuid__": "1178685b-7a3f-416b-9530-a50a22d457cf"
+    },
+    "timeplus": {
+      "__uuid__": "a8ed8bcf-04ba-4647-8d9b-0ad0b9ec579c"
+    },
+    "timeplus1": {
+      "__uuid__": "e733fd1d-ea0c-4c6d-ad7d-f4b7cab3fe62"
+    },
+    "yuan": {
+      "__uuid__": "e14b21cc-64d7-4341-bd37-2428e43b9721"
+    }
+  }
+}

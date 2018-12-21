@@ -1,0 +1,139 @@
+2018-10-12T11:01:57.939Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-12T11:01:57.943Z - normal: checking language setting...
+2018-10-12T11:01:57.943Z - normal: Language: zh
+2018-10-12T11:01:59.727Z - success: protocol editor-framework registered
+2018-10-12T11:01:59.727Z - success: protocol app registered
+2018-10-12T11:01:59.727Z - success: protocol theme registered
+2018-10-12T11:01:59.727Z - success: protocol packages registered
+2018-10-12T11:01:59.728Z - success: protocol unpack registerred
+2018-10-12T11:01:59.728Z - success: protocol disable-commonjs registerred
+2018-10-12T11:01:59.972Z - normal: connected!
+2018-10-12T11:01:59.974Z - normal: Check project D:\git\Facebook\mazes\mazes_h5
+2018-10-12T11:01:59.980Z - normal: Initializing Cocos2d
+2018-10-12T11:02:00.200Z - normal: Initializing Asset Database
+2018-10-12T11:02:00.235Z - success: protocol uuid registerred
+2018-10-12T11:02:00.236Z - success: protocol db registerred
+2018-10-12T11:02:00.236Z - success: protocol thumbnail registerred
+2018-10-12T11:02:00.236Z - normal: Loading editor/builtin packages
+2018-10-12T11:02:00.259Z - success: anysdk loaded
+2018-10-12T11:02:00.382Z - success: assets loaded
+2018-10-12T11:02:00.385Z - success: builder loaded
+2018-10-12T11:02:00.387Z - success: cocos-analytics loaded
+2018-10-12T11:02:00.389Z - success: console loaded
+2018-10-12T11:02:00.421Z - success: fb-instant-games loaded
+2018-10-12T11:02:00.425Z - success: hierarchy loaded
+2018-10-12T11:02:00.427Z - success: inspector loaded
+2018-10-12T11:02:00.428Z - success: keystore loaded
+2018-10-12T11:02:00.436Z - success: node-library loaded
+2018-10-12T11:02:00.438Z - success: package-asset loaded
+2018-10-12T11:02:00.440Z - success: preferences loaded
+2018-10-12T11:02:00.441Z - success: project-exporter loaded
+2018-10-12T11:02:00.455Z - success: project-importer loaded
+2018-10-12T11:02:00.456Z - success: project-settings loaded
+2018-10-12T11:02:00.458Z - success: ui-kit loaded
+2018-10-12T11:02:00.458Z - success: ui-grid loaded
+2018-10-12T11:02:00.461Z - success: scene loaded
+2018-10-12T11:02:00.462Z - success: sprite-editor loaded
+2018-10-12T11:02:00.465Z - success: store loaded
+2018-10-12T11:02:00.468Z - success: timeline loaded
+2018-10-12T11:02:00.468Z - normal: Loading builtin packages
+2018-10-12T11:02:00.471Z - success: asset-db-debugger loaded
+2018-10-12T11:02:00.473Z - success: code-editor loaded
+2018-10-12T11:02:00.473Z - success: color-picker loaded
+2018-10-12T11:02:00.475Z - success: package-manager loaded
+2018-10-12T11:02:00.479Z - success: sdkbox loaded
+2018-10-12T11:02:00.481Z - success: tester loaded
+2018-10-12T11:02:00.482Z - success: ui-kit-preview-extra loaded
+2018-10-12T11:02:00.483Z - success: ui-kit-preview loaded
+2018-10-12T11:02:00.484Z - success: ui-tree loaded
+2018-10-12T11:02:01.539Z - normal: Initializing project D:\git\Facebook\mazes\mazes_h5
+2018-10-12T11:02:01.542Z - normal: Loading packages
+2018-10-12T11:02:01.552Z - success: i18n loaded
+2018-10-12T11:02:01.552Z - normal: Watching packages
+2018-10-12T11:02:01.589Z - normal: Run Application
+2018-10-12T11:02:04.941Z - success: preview server running at http://localhost:7457
+2018-10-12T11:02:08.967Z - warn: 会话不存在或已过期
+2018-10-12T11:02:10.101Z - normal: 1.9.0
+2018-10-12T11:02:11.200Z - normal: No need to specify the "type" of "Tower.size" because cc.Size is a child class of ValueType.
+2018-10-12T11:02:36.442Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\git\\Facebook\\mazes\\mazes_h5\\build",
+  "debug": false,
+  "dest": "D:\\git\\Facebook\\mazes\\mazes_h5\\build\\fb-instant-games",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "fb-instant-games",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "75032c89-19df-4cd4-9d51-27381f527ff8"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "MazesWorld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "0e55fb77-0fbd-4d",
+  "zipCompressJs": true,
+  "project": "D:\\git\\Facebook\\mazes\\mazes_h5",
+  "projectName": "MazesWorld",
+  "debugBuildWorker": false
+}
+2018-10-12T11:02:36.443Z - normal: Building D:\git\Facebook\mazes\mazes_h5
+2018-10-12T11:02:36.443Z - normal: Destination D:\git\Facebook\mazes\mazes_h5\build\fb-instant-games
+2018-10-12T11:02:36.738Z - normal: Delete D:\git\Facebook\mazes\mazes_h5\build\fb-instant-games\**\*
+2018-10-12T11:02:41.281Z - normal: Compiled project javascript file successfully
+2018-10-12T11:02:41.282Z - normal: Start building assets
+2018-10-12T11:02:41.282Z - normal: Start spawn build-worker
+2018-10-12T11:02:42.213Z - normal: Finish spawn build-worker
+2018-10-12T11:02:42.214Z - normal: Start init build-worker
+2018-10-12T11:02:45.084Z - normal: 1.9.0
+2018-10-12T11:02:45.226Z - normal: Finish init build-worker
+2018-10-12T11:02:45.226Z - normal: Start build-assets in worker
+2018-10-12T11:02:47.500Z - normal: Finish build-assets in worker
+2018-10-12T11:02:47.509Z - normal: Finish building assets
+2018-10-12T11:02:47.693Z - normal: Start building raw assets
+2018-10-12T11:02:47.694Z - normal: Start building plugin scripts
+2018-10-12T11:02:48.648Z - normal: Finish building plugin scripts
+2018-10-12T11:02:49.257Z - normal: Finish building raw assets
+2018-10-12T11:02:50.059Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-10-12T11:02:50.096Z - warn: [Cocos Analystic] Can not find index.html
+2018-10-12T11:02:50.126Z - normal: Generating html from D:\CocosCreator\resources\static\fb-instant-games\index.html
+2018-10-12T11:02:50.137Z - normal: Generating main.js from D:\CocosCreator\resources\static\fb-instant-games\main.js
+2018-10-12T11:02:50.832Z - normal: Built to "D:\git\Facebook\mazes\mazes_h5\build\fb-instant-games" successfully
+2018-10-13T02:11:11.127Z - info: shutdown preview server
